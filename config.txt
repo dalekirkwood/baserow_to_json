@@ -1,0 +1,5 @@
+batch size = <INSERT BATCH SIZE>
+server address = <INSERT SERVER ADDRESS>
+table number = <INSERT TABLE NUMBER>
+starting page number = <INSERT PAGE NUMBER, 1 IF NOT RUN BEFORE>
+auth token = <INSERT TOKEN>
